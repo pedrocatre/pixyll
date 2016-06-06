@@ -1,0 +1,31 @@
+$background-color: #2b303b;
+$text-color: white;
+$link-color: #4b99dc;
+$link-color-hover: #B2D9FB;
+
+body {
+  background-color: $background-color;
+  color: $text-color;
+
+  p {
+    color: $text-color;
+  }
+
+  .site-header a {
+    color: white;
+    text-shadow: none;
+  }
+
+  a {
+    color: $link-color;
+    background-image: none;
+    text-shadow: none;
+    text-decoration: none;
+  }
+
+  a:focus, a:hover {
+    color: $link-color-hover;
+    text-shadow: none;
+    text-decoration: underline;
+  }
+}
