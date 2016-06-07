@@ -28,4 +28,22 @@ body {
     text-shadow: none;
     text-decoration: underline;
   }
+
+  .site-header {
+    a {
+      text-decoration: none;
+    }
+    .site-nav {
+      a {
+        color: white;
+        border-bottom: 0;
+      }
+
+      a:focus, a:hover {
+        color: $link-color-hover;
+        text-shadow: none;
+        text-decoration: none;
+      }
+    }
+  }
 }
