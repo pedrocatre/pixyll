@@ -2,6 +2,7 @@ $background-color: #2b303b;
 $text-color: white;
 $link-color: #4b99dc;
 $link-color-hover: #B2D9FB;
+$header-link-hover-color: white;
 
 body {
   background-color: $background-color;
@@ -33,6 +34,13 @@ body {
     a {
       text-decoration: none;
     }
+
+    a:focus, a:hover {
+      color: $header-link-hover-color;
+      text-shadow: none;
+      text-decoration: none;
+    }
+
     .site-nav {
       a {
         color: white;
@@ -40,10 +48,20 @@ body {
       }
 
       a:focus, a:hover {
-        color: $link-color-hover;
+        color: $header-link-hover-color;
         text-shadow: none;
         text-decoration: none;
       }
     }
   }
+}
+
+.post-link .post-title {
+  color: white;
+}
+
+.post a:focus, .post a:hover {
+  color: white;
+  text-shadow: none;
+  text-decoration: none;
 }
