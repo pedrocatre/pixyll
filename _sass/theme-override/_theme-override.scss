@@ -28,7 +28,6 @@ body {
     color: $link-color-hover;
     text-shadow: none;
     text-decoration: underline;
-    border-bottom: 0;
   }
 
   .site-header, .site-nav {
@@ -40,8 +39,6 @@ body {
       color: $header-link-hover-color;
       text-shadow: none;
       text-decoration: none;
-
-
     }
   }
 }
@@ -56,8 +53,8 @@ a.post-link:focus, a.post-link:hover {
   text-decoration: none;
 }
 
-//.pagination-item a:focus, .pagination-item a:hover {
-//  color: $link-color-hover;
-//  text-shadow: none;
-//  text-decoration: none;
-//}
+a.pagination-item:focus, a.pagination-item:hover {
+  color: $link-color-hover;
+  text-shadow: none;
+  text-decoration: none;
+}
