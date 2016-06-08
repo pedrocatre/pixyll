@@ -1,10 +1,10 @@
 # Site settings
-title:       Pedro Catré
-email:       your_email@example.com
-author:      John Otander
+title:       Pedro Catré blog
+email:       me@pedrocatre.com
+author:      Pedro Catré
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     ""
-url:         "http://pixyll.com"
+baseurl:     "/pixyll"
+url:         "http://blog.pedrocatre.com"
 date_format: "%b %-d, %Y"
 
 # Google services

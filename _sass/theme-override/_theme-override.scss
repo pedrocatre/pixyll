@@ -48,8 +48,14 @@ body {
   color: white;
 }
 
-.post a:focus, .post a:hover {
-  color: white;
+//.post a:focus, .post a:hover {
+//  color: white;
+//  text-shadow: none;
+//  text-decoration: none;
+//}
+
+.pagination-item a:focus, .post a:hover {
+  color: $link-color-hover;
   text-shadow: none;
   text-decoration: none;
 }
