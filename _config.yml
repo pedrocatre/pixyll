@@ -1,16 +1,21 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
+title:       Pedro Catré blog
+email:       me@pedrocatre.com
+author:      Pedro Catré
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     ""
-url:         "http://pedrocatre.github.io"
+baseurl:     "/pixyll"
+url:         "http://blog.pedrocatre.com"
 date_format: "%b %-d, %Y"
 
-# Google analytics
 # Google services
-google_analytics: UA-53548208-1
+google_analytics:
 google_verification:
+# Use either direct GA implementation or set up GTM account
+# - using both will skew your data (leave blank to not use at all)
+google_analytics:
+google_tag_manager:
+# Bing services
+bing_verification:
 
 # Optional features
 animated:             false
@@ -18,6 +23,9 @@ show_related_posts:   false
 show_post_footers:    false
 show_social_icons:    false
 ajaxify_contact_form: false
+enable_mathjax: false
+extended_fonts: false
+enable_anchorjs: false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
@@ -25,8 +33,8 @@ disqus_shortname:
 
 # Facebook Comments plugin
 # (leave blank to disable Facebook Comments, otherwise set it to true)
-facebook_comments: 
-facebook_appid: 
+facebook_comments:
+facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
@@ -34,6 +42,8 @@ github_username:
 bitbucket_username:
 stackoverflow_id:
 twitter_username:
+skype_username:
+steam_nickname:
 google_plus_id:
 linkedin_username:
 angellist_username:
@@ -44,7 +54,6 @@ flattr_button:
 
 # Post sharing icons
 show_sharing_icons: false
-share_text: 'Share this post!'
 # Change to 'true' to enable individual icons
 share_facebook: false
 share_twitter: false
@@ -56,6 +65,39 @@ share_reddit: false
 share_stumbleupon: false
 share_hackernews: false
 
+text:
+  pagination:
+    newer: 'Newer'
+    older: 'Older'
+  share_buttons:
+    text:         'Share this post!'
+    facebook:     'Share on Facebook'
+    twitter:      'Share on Twitter'
+    googleplus:   'Share on Google+'
+    linkedin:     'Share on LinkedIn'
+    digg:         'Share on Digg'
+    tumblr:       'Share on Tumblr'
+    reddit:       'Share on Reddit'
+    stumbleupon:  'Share on StumbleUpon'
+    hackernews:   'Share on Hacker News'
+  post:
+    updated:        'Updated'
+    minute_read:    'minute read'
+    related_posts:  'Related Posts'
+  index:
+    coming_soon: 'Coming soon...'
+  contact:
+    email:    'Email Address'
+    content:  'What would you like to say?'
+    subject:  'New submission!'
+    submit:   'Say Hello'
+    ajax:
+      sending:  'sending..'
+      sent:     'Message sent!'
+      error:    'Error!'
+  thanks: 'Thanks for contacting us. We will reply as soon as possible.'
+  og_locale: 'en_US'
+
 # Build settings
 markdown:     kramdown
 redcarpet:
@@ -64,3 +106,8 @@ permalink:    pretty
 paginate:     4
 sass:
   compressed: true
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+# https://github.com/jekyll/jekyll/issues/2938
+exclude: [vendor]
