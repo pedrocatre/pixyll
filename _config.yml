@@ -2,17 +2,16 @@
 title:       Pedro Catré
 email:       me@pedrocatre.com
 author:      Pedro Catré
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: "Pedro Catré's personal blog"
 baseurl:     ""
 url:         "http://blog.pedrocatre.com"
 date_format: "%b %-d, %Y"
 
 # Google services
-google_analytics:
 google_verification:
 # Use either direct GA implementation or set up GTM account
 # - using both will skew your data (leave blank to not use at all)
-google_analytics:
+google_analytics: UA-96544493-1
 google_tag_manager:
 # Bing services
 bing_verification:
@@ -29,7 +28,7 @@ enable_anchorjs: false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname:
+disqus_shortname: http-blog-pedrocatre-com
 
 # Facebook Comments plugin
 # (leave blank to disable Facebook Comments, otherwise set it to true)
