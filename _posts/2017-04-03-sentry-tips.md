@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Sentry Pro Tips
-date:       2017-03-31
+date:       2017-04-03
 summary:    Fine tune Sentry
 categories: frontend
 ---
