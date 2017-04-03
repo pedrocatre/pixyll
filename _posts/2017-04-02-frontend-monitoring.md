@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Frontend Error Tracking
-date:       2017-03-30
+title:      Making a Case For Frontend Error Tracking
+date:       2017-04-02
 summary:    You can save hours when debugging users' issues by taking 10 minutes now to setup monitoring for your frontend!
 categories: frontend
 ---
@@ -60,7 +60,7 @@ Yup!
 
 With time you'll fine tune Sentry to better adapt to your circumstances, but you are now a lot better off than when you started. Frontend monitoring is one of those things that even if you are doing it wrong you still get a lot of benefits out of it (similar to usability tests, go do those too after you're done here [^1]).
 
-Be sure to take a look at [tips and tricks to fine tune your Sentry setup](http://blog.pedrocatre.com/frontend/2017/03/31/sentry-tips/).
+Be sure to take a look at [tips and tricks to fine tune your Sentry setup](http://blog.pedrocatre.com/frontend/2017/04/03/sentry-tips/).
 
 Happy monitoring.
 
