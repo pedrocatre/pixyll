@@ -22,7 +22,7 @@ This might seem like a poor tip, but trust me it is crucial!
 Here's the deal, you start using docker and everything works great.
 Then your project grows, you have more microservices running in containers and all of a sudden your start having problems.
 
-* First problem I experienced was that my containers started dying without any warning. I have one project making calls to services running on containers and all of a sudden the calls start failing. I check and the container had died...
+* First problem I experienced was that containers started dying without warning. I have one project making calls to services running on containers and all of a sudden the calls start failing. I check and the container had died...
 * Second problem, things start getting really slow. I felt this most when running migrations on databases running inside containers. This operation would take many times longer than it should and more often than not the container would just die halfway through the process.
 
 To fix both those issues:
@@ -63,12 +63,12 @@ docker rmi $(docker images -a | grep "^<none>" | awk '{print $3}')
 
 ## Get back your disk space
 
-If you are on a mac the tip above is like a band aid for a broken leg. Eventually you'll see the disk space issue again. This is because there is a [bug on docker for mac that causes the Docker.qcow2 file to never shrink](https://github.com/docker/for-mac/issues/371){:target="_blank"}.
+If you are on a Mac the tip above is like a band aid for a broken leg. Eventually you'll see the disk space issue again. This is because there is a [bug on docker for mac that causes the Docker.qcow2 file to never shrink](https://github.com/docker/for-mac/issues/371){:target="_blank"}.
 I hope that by the time you read this the problem will have been solved. Check [github](https://github.com/docker/for-mac/issues/371){:target="_blank"} to find out the status of the issue.
 
 In case it is not fixed, what you can do is to follow one of the many workarounds suggested on the issue thread.
-I followed @wbednarski's suggestion to delete Docker.qcow2. __Notice you can only follow this suggestion if you are OK with removing all image/containers__.
-If so stop docker and then run:
+I followed @wbednarski's suggestion to delete Docker.qcow2. __You can only follow this suggestion if you are OK with removing all image/containers__.
+If you are, stop docker and then run:
 
 {% highlight js %}
 docker rm $(docker ps -a -q)
