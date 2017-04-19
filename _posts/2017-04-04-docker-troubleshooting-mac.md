@@ -55,10 +55,10 @@ Remove them using their image ID:
 docker rmi IMAGE_ID
 {% endhighlight %}
 
-You can also just [remove all untagged images](http://jimhoskins.com/2013/07/27/remove-untagged-docker-images.html){:target="_blank"}:
+You can also just [remove all unused images](https://docs.docker.com/engine/reference/commandline/image_prune/){:target="_blank"}:
 
 {% highlight js %}
-docker rmi $(docker images -a | grep "^<none>" | awk '{print $3}')
+docker image prune --all
 {% endhighlight %}
 
 ## Get back your disk space
