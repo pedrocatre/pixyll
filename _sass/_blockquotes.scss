@@ -17,6 +17,9 @@ blockquote footer {
 
 blockquote.blockquote-smaller, blockquote.blockquote-smaller p {
   font-size: 0.9rem;
+  .fa {
+    color: #ddd;
+  }
 }
 
 //@media screen and (min-width: 32em)
