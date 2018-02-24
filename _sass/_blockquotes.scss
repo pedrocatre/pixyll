@@ -14,3 +14,27 @@ blockquote footer {
   text-align: left;
   padding: 0;
 }
+
+blockquote.blockquote-smaller, blockquote.blockquote-smaller p {
+  font-size: 0.9rem;
+}
+
+//@media screen and (min-width: 32em)
+//blockquote.blockquote-smaller {
+//            margin-left: 1rem;
+//            padding: 1rem;
+//          }
+
+blockquote.blockquote-smaller {
+  border-left: 2px solid #7a7a7a;
+}
+
+blockquote.blockquote-smaller {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+blockquote.blockquote-smaller {
+  margin-left: 1rem;
+  padding: 1rem;
+}
