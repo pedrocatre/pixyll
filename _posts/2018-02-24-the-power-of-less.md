@@ -11,18 +11,18 @@ Many years ago, when I was preparing to present my master thesis my advisor gave
 
 <blockquote class="blockquote-smaller">
 <div class="dialogue-left">
-<i class="fa fa-quote-left" aria-hidden="true"></i> Keep the presentation simple. Remove as much information as you can.
+<i class="fa fa-quote-left" aria-hidden="true"></i> Remove as much information as you can.
 </div>
 <br><br>
 
 <div class="dialogue-right">
-<i class="fa fa-angle-right fa-fw" aria-hidden="true"></i>  Me: Gantt charts are boring and useless but they are expected in the presentation. They are unofficially required.
+<i class="fa fa-angle-right fa-fw" aria-hidden="true"></i>  Me: Gantt charts are boring and useless but they are expected in the presentation.
 </div>
 <br><br>
 
 <div class="dialogue-left">
 <i class="fa fa-quote-left" aria-hidden="true"></i>
-Forget the Gantt chart and remove the technical details of this.
+Forget the Gantt chart and remove the technical details.
 </div>
 <br><br>
 
