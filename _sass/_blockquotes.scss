@@ -15,26 +15,18 @@ blockquote footer {
   padding: 0;
 }
 
-blockquote.blockquote-smaller, blockquote.blockquote-smaller p {
-  font-size: 0.9rem;
-  .fa {
-    color: #ddd;
+blockquote,  blockquote p{
+  &.blockquote-smaller  {
+    border-left: 0.8px solid #dddddd;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-size: 0.9rem;
+    .fa {
+      color: #ddd;
+    }
   }
 }
 
-blockquote.blockquote-smaller {
-  border-left: 0.8px solid #dddddd;
-}
-
-blockquote.blockquote-smaller {
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-}
-
-blockquote.blockquote-smaller {
-  margin-left: 1rem;
-  padding: 1rem;
-}
 
 .dialogue-left {
   padding-right:35%;
