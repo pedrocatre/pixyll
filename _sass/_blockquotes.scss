@@ -22,14 +22,8 @@ blockquote.blockquote-smaller, blockquote.blockquote-smaller p {
   }
 }
 
-//@media screen and (min-width: 32em)
-//blockquote.blockquote-smaller {
-//            margin-left: 1rem;
-//            padding: 1rem;
-//          }
-
 blockquote.blockquote-smaller {
-  border-left: 2px solid #7a7a7a;
+  border-left: 0.8px solid #dddddd;
 }
 
 blockquote.blockquote-smaller {
@@ -40,4 +34,13 @@ blockquote.blockquote-smaller {
 blockquote.blockquote-smaller {
   margin-left: 1rem;
   padding: 1rem;
+}
+
+.dialogue-left {
+  padding-right:40%;
+}
+
+.dialogue-right {
+  text-align: right;
+  padding-left:40%;
 }
