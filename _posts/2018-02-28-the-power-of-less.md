@@ -1,12 +1,14 @@
 ---
 layout:     post
 title:      The Power of Less
-date:       2018-02-24
+date:       2018-02-28
 summary:    Cut the complexity out of your presentations.
 categories: presentations
 ---
 
 Many years ago, when I was preparing to present my master thesis my advisor gave me valuable advice I'll never forget.
+
+Here is how that went:
 
 
 <blockquote class="blockquote-smaller">
@@ -38,7 +40,7 @@ Forget the Gantt chart and remove the technical details.
 <br><br>Surprise them by doing the exact opposite! 
 <br><br>Keep some slides hidden at the end for questions that they might ask.
 Even have the damn Gantt chart if you like. 
-If they ask you about it say: I'm glad you asked and you jump to the slide and use the QA time to talk about this, instead of sacrificing the very limited presentation time with it.
+If they ask you about it say: I'm glad you asked" and jump to the slide and use the QA time to talk about this, instead of sacrificing the very limited presentation time with it.
 </div>
 </blockquote>
 
