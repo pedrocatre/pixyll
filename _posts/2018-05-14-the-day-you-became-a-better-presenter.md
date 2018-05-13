@@ -6,7 +6,7 @@ summary:    Here are a handful of techniques that will help you go from a bad pr
 categories: presentations
 ---
 
-![presenter]({{ site.url }}/images/presenter.jpeg){: .image-featured }
+_![presenter]({{ site.url }}/images/presenter.jpeg){: .image-featured }_
 
 There are a handful of techniques that will help you go from a bad presenter to a good one. 
 I learned these from amazing presenters through out the years by asking for feedback. Here is what I have learned:
