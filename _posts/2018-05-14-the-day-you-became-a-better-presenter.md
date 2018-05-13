@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      The Day you Became a Better Presenter
-date:       2018-05-12
+date:       2018-05-14
 summary:    Here are a handful of techniques that will help you go from a bad presenter to a good one.
 categories: presentations
 ---
