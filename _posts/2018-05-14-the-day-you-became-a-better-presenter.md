@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      The Day you Became a Better Presenter
-date:       2018-05-14
+date:       2018-05-12
 summary:    Here are a handful of techniques that will help you go from a bad presenter to a good one.
 categories: presentations
 ---
@@ -13,15 +13,26 @@ I learned these from amazing presenters through out the years by asking for feed
 
 __Don't speak too fast or too slow.__ Respect the pauses. We have a distorted sense of time when we are presenting and we usually end up speaking too fast. Slow down. 
 But you should also not speak too slowly as that would be boring :)
-It is not so much about how fast you speak, but the pauses you make. Respect the pauses and give your audience time to digest the content.
+
+<blockquote>
+  <p>
+    It is not so much about how fast you speak, but the pauses you make. Respect the pauses and give your audience time to digest the content.
+  </p>
+  <footer><cite title="D.B.">D.B.</cite></footer>
+</blockquote>
 
 __Present with enthusiasm.__
  If you don't have enthusiasm for what you are presenting, no one else will either. If you don't have it, fake it and it will become true.
  
- __Have as little text as possible.__ Favour images instead and try to make them humorous. The slides should support your point and not make it. Your voice and what you say is what counts.
+ __Have as little text as possible.__ Favour images instead and try to make them humorous.
  
- > The slides should support your point and not make it. Your voice and what you say is what counts.
- 
+<blockquote>
+  <p>
+    The slides should support your point and not make it. Your voice and what you say is what counts.
+  </p>
+  <footer><cite title="C.D.">C.D.</cite></footer>
+</blockquote>
+
 In all my recent presentations I had zero text (except for titles). It is more work but it pays off. You can always have images instead of text.
 For example, let's say you have a slide talking about the people who worked with you on a project. Instead of listing their names have a group picture, or individual pictures.
 
