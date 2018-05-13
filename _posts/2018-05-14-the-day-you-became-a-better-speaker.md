@@ -55,7 +55,7 @@ Try to change the examples so they resonate with you audience.
 
 > Make the audience feel you thought about them when creating the presentation.
 
-__Train the presentation at least a couple of times.__ It shows when you are not prepared. 
+__Practice the presentation at least a couple of times.__ It shows when you are not prepared. 
 The more important a presentation is the more you should invest.
 If it is an important presentation practice it in the most realistic way possible. 
 If you can, practice in the room where you will give the presentation. 
