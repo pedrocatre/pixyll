@@ -8,6 +8,12 @@ Then, start the Jekyll Server. I always like to give the `--watch` option so it 
 jekyll serve --watch
 ```
 
+if I get an issue `WARN: Unresolved specs during Gem::Specification.reset:` I might have to run:
+
+```
+bundle exec jekyll serve --watch
+```
+
 If I get the issue:
 
 conversion error: Jekyll::Converters::Scss encountered an error while converting 'css/pixyll.scss':
