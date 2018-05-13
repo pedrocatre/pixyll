@@ -1,15 +1,15 @@
 ---
 layout:     post
-title:      The Day you Became a Better Presenter
+title:      The Day you Became a Better Speaker
 date:       2018-05-14
-summary:    Here are a handful of techniques that will help you go from a bad presenter to a good one.
+summary:    Here are a handful of techniques that will help you go from a bad speaker to a good one.
 categories: presentations
 ---
 
 _![presenter]({{ site.url }}/images/presenter.jpeg){: .image-featured }_
 
-There are a handful of techniques that will help you go from a bad presenter to a good one. 
-I learned these from amazing presenters through out the years by asking for feedback. Here is what I have learned:
+There are a handful of techniques that will help you go from a bad speaker to a good one. 
+I learned these from amazing speakers through out the years by asking for feedback. Here is what I have learned:
 
 __Don't speak too fast or too slow.__ Respect the pauses. We have a distorted sense of time when we are presenting and we usually end up speaking too fast. Slow down. 
 But you should also not speak too slowly as that would be boring :)
@@ -80,11 +80,11 @@ __Have contingency plans.__ How much you should invest in this depends on how im
 * have a video of the demo in case it malfunctions
 * be ready to present without slides in a last case scenario (e.g. the power goes out, or the projector fails).
 	
-I've seen the last example happen. The projector failed, the presenters did not have a backup plan and they lost their cool. They did not take responsibility for the situation. They panicked and demanded a second chance to present. They were confident they would get one since this was an important presentation and it was not their fault the projector failed. They did not get one.
+I've seen the last example happen. The projector failed, the speakers did not have a backup plan and they lost their cool. They did not take responsibility for the situation. They panicked and demanded a second chance to present. They were confident they would get one since this was an important presentation and it was not their fault the projector failed. They did not get one.
 
 > Don’t expect life to be fair; if it is important be prepared.
 
-__Ask for feedback when the presentation ends.__ Preferably from the best presenter, since you want to get the expert feedback. But also from someone with less knowledge about the topic. This way you can check whether you were interesting enough to grab their attention and if the presentation was clear enough for them to follow. I get this is not always possible, but do it when it is. I do this at work and I've learned a lot from my coworkers.
+__Ask for feedback when the presentation ends.__ Preferably from the best speaker, since you want to get the expert feedback. But also from someone with less knowledge about the topic. This way you can check whether you were interesting enough to grab their attention and if the presentation was clear enough for them to follow. I get this is not always possible, but do it when it is. I do this at work and I've learned a lot from my coworkers.
 
 __Start preparing for the presentation as early as possible.__ We have presentations at work whenever we ship something to a client, like a new feature. Given that I know this I start noting down anything that might be interesting for the presentation as soon as we start the project. This allows my brain to work on the background on interesting things I can show. It also allows me to gather inspiration from whatever I see or read in the meantime. With this technique I'm not as dependant on inspiration of the moment, because I have weeks to gather this bit by bit, in a way that does not feel like work.
 
