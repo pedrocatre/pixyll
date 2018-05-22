@@ -12,7 +12,7 @@ I went from doing zero pull ups to doing pull ups with 16Kg tied around my waist
 
 How you can go about applying this:
 
-* You start by watching a youtube video teaching you how to do a pull up.
+* Start by watching a youtube video teaching you how to do a pull up.
 * Since you can't do a single pull up at that point you do an assisted pull up (I used an assisted pull up machine for this).
 * Once you can do 6 pull ups remove some of the assistance.
 * Once you can do 6 pull ups without assistance start adding weight.
