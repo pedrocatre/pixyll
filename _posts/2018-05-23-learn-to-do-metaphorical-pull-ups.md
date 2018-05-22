@@ -20,7 +20,7 @@ How you can go about applying this:
 
 You can apply this to anything you are learning. 
 Make it very easy and gradually increase the difficulty. 
-_The goal is make consistent progress everyday._
+_The goal is to make consistent progress everyday._
 
 ![pull ups with weight]({{ site.url }}/images/pull-ups-with-weight.gif){: .center-image }
 
