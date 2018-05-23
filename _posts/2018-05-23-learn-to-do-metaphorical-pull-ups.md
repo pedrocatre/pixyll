@@ -2,9 +2,12 @@
 layout:     post
 title:      Learn to do Metaphorical Pull Ups (and Real Ones Too)
 date:       2018-05-23
-summary:    I went from doing zero pull ups to doing pull ups with 16Kg tied around my waist in very little time. It was simple using progressive overload.
+summary:    Let me show you how easy it can be for you to learn a new skill. One that you might not imagine yourself doing. This post is not about pull ups, but I will use them to illustrate a point.
 categories: learning
 ---
+Let me show you how easy it can be for you to learn a new skill. One that you might not imagine yourself doing. This post is not about pull ups, but I will use them to illustrate a point.
+
+> You can deconstruct a skill you do not have today so that, through a gradual increase in difficulty, you are able to do it tomorrow.
 
 I went from doing zero pull ups to doing pull ups with 16Kg tied around my waist in very little time. It was simple using progressive overload.
 
