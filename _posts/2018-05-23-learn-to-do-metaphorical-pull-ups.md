@@ -2,9 +2,11 @@
 layout:     post
 title:      Learn to do Metaphorical Pull Ups (and Real Ones Too)
 date:       2018-05-23
-summary:    I went from doing zero pull ups to doing pull ups with 16Kg tied around my waist in very little time. It was simple using progressive overload.
+summary:    Use progressive overload to learn difficult skills.
 categories: learning
 ---
+
+With the right approach it can be very simple to learn a difficult skill. This post is not about pull ups, but I will use them to illustrate a point.
 
 I went from doing zero pull ups to doing pull ups with 16Kg tied around my waist in very little time. It was simple using progressive overload.
 
@@ -21,6 +23,8 @@ How you can go about applying this:
 You can apply this to anything you are learning. 
 Make it very easy and gradually increase the difficulty. 
 _The goal is to make consistent progress everyday._
+
+> You can deconstruct a skill you do not have today so that, through a gradual increase in difficulty, you are able to do it tomorrow.
 
 ![pull ups with weight]({{ site.url }}/images/pull-ups-with-weight.gif){: .center-image }
 
