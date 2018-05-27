@@ -20,6 +20,7 @@ How you can go about applying this:
 * Once you can do 6 pull ups without assistance start adding weight.
 * Add weight every time you can do 6 pull ups. Rinse and repeat.
 
+It takes a while but it helps if you can always measure and see progress.
 You can apply this to anything you are learning. 
 Make it very easy and gradually increase the difficulty. 
 _The goal is to make consistent progress everyday._
