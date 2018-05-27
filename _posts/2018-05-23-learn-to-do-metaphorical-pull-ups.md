@@ -29,6 +29,7 @@ _The goal is to make consistent progress everyday._
 ![pull ups with weight]({{ site.url }}/images/pull-ups-with-weight.gif){: .center-image }
 
 P.S. in case you are wondering this is me at work. The red bag is [full of rocks]({{ site.url }}/images/bag-of-rocks.jpg){:target="_blank"} I borrowed from the conference room decoration 😉
+Don't copy my form. I'm still learning and have a long way to go. For learning perfect pull ups watch tutorials from professionals.
 
 
 
