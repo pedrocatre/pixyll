@@ -48,7 +48,7 @@ If they ask you about it say: "I'm glad you asked" and jump to the slide and use
 Suffice it to say I followed the advice and the presentation was a hit. 
 They LOVED how simple it was.
 They LOVED that the demo showed the power and potential of what I built instead of just hearing about it.
-They LOVED the surprised of expecting to be confused and bored to tears but instead getting a light presentation.
+They LOVED the surprise of expecting to be confused and bored to tears but instead getting a light presentation.
 
 The lesson is:
 _Keep it simple and high level. Favour less information over too much._
