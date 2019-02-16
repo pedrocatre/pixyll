@@ -74,7 +74,9 @@ __Will I publish more courses and invest in marketing them?__
 
 Not on the short term. At the end of my vacation I started a company with a friend and that's where my focus has been ever since. I hope to write about that experience eventually.
 
-_P.S._ An interesting (read sad) fact is that I had to record from my parents bedroom because it was the only place in the house that was quiet enough. I still had to delete audio recordings in the morning because of my neighbour's roosters crowing 😑...
+__P.S.__
+
+An interesting (read sad) fact is that I had to record from my parents bedroom because it was the only place in the house that was quiet enough. I still had to delete audio recordings in the morning because of my neighbour's roosters crowing 😑...
 
 If you ever wondered what the most terrible least optimised video recording setup in the world would look like wonder no more...
 
