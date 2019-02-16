@@ -61,7 +61,7 @@ My success metric was to publish whatever I had by the end of my vacation so fro
 
 > Anything I do out of my comfort zone makes me better.
 
-I also learned a lot about audio and video recording and editing. Later I got invited by a coworker to teach in a coding camp my company organised in Poznań. He said he thought of me because of the course, whether or not that is the case is unknowable. Maybe he would have thought of me anyway. I do believe in the intangible benefits that came from putting myself out there though.
+I also learned a lot about audio and video recording and editing. Later I got invited by a coworker to teach in a coding camp my company organised in Poznań. He said he thought of me because of the course, whether or not that is the case is unknowable. Maybe he would have thought of me anyway. I do believe in the intangible benefits that come from putting myself out there though.
 
 From a financial point of view it was not a success as of the time of this writing. But nor did I expect it to be.
 It actually went better than expected given I barely marketed it. Here are the current total results:
