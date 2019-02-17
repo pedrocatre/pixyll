@@ -8,7 +8,7 @@ categories: learning
 
 _![presenter]({{ site.url }}/images/double_your_programming_productivity_cover.png){: .image-featured }_
 
-> tl;dr I published a course [Double your programming productivity!](https://skl.sh/2xG3E99){:target="_blank"}. It is on skillshare. They have a 2 month free trial if you want to check it out.
+> tl;dr I published a course [Double your programming productivity!](https://skl.sh/2xG3E99){:target="_blank"} It is on skillshare. They have a 2 month free trial if you want to check it out.
 
 I have wanted to record a video course for a while now.
 Back in September 2018 I had a vacation and visited my family in Portugal and thought that would be a good opportunity to try it out.
