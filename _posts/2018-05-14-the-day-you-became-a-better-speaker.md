@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      The Day you Became a Better Speaker
+title:      The Day You Became a Better Speaker
 date:       2018-05-14
 summary:    Here are a handful of techniques that will help you go from a bad speaker to a good one.
 categories: presentations
