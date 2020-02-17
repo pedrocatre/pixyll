@@ -70,6 +70,8 @@ It actually went better than expected given I barely marketed it. Here are the c
 
 On a side note, even thought this amount does not move the needle at all it still feels irrationally good to see money dropping into my account monthly without any extra effort on my part.
 
+Update: as of January 2020 this course has **86 students**. This growth happened without any marketing from my side.
+
 __Will I publish more courses and invest in marketing them?__
 
 Not on the short term. At the end of my vacation I started a company with a friend and that's where my focus has been ever since. I hope to write about that experience eventually.
