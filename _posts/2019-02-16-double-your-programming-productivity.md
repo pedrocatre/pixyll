@@ -13,7 +13,7 @@ _![presenter]({{ site.url }}/images/double_your_programming_productivity_cover.p
 I have wanted to record a video course for a while now.
 Back in September 2018 I had a vacation and visited my family in Portugal and thought that would be a good opportunity to try it out.
 
-I had considered this idea in the past but life would always get in the way.
+I considered this idea in the past but life always got in the way.
 This time I made a commitment that I would publish whatever I had done by the end of the vacation.
 It turns out this commitment was the secret ingredient I needed to ship it!
 
